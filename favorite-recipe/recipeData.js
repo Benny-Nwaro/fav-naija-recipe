@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 export const recipeData = [
   {
@@ -31,6 +31,6 @@ export const recipeData = [
       "Add smoked turkey, ground crayfish and crayfish, beef stock (if using) and stir to combine. Add bouillon cubes, taste and adjust accordingly. I did not add salt to this soup as the smoked turkey and mackerel already contained salt. Continue to cook for another 10 minutes, check at intervals and stir to avoid burning if need be",
       "Add shredded smoked mackerel and gently stir into the soup. Add chopped spinach, stir to combine and cook for another 3 to 5 minutes. Take it off the heat, allow to cool for about 10 minutes before serving",
     ],
-    note: "The instructions above work for Nigerians. Please if you are not Nigerian, don't try this at home 😂🤣",
+    note: "There are two different kinds of Egusi soup, Fried and cooked. The instructions above work for fried. Please don't try this for the cooked method. Thanks 😂",
   },
 ];

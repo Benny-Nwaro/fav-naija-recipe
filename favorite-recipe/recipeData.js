@@ -3,9 +3,12 @@ import React from "react";
 export const recipeData = [
   {
     id: 1,
-    image1: "./src/assets/images/efoegusi.jpg",
-    image2: "./src/assets/images/egusi2.jpg",
-    image3: "./src/assets/images/favegusisoup.png",
+    image1:
+      "https://demandafrica.com/wp-content/uploads/2017/06/EgusiSoup-e1533238405501.jpg",
+    image2:
+      "https://lowcarbafrica.com/wp-content/uploads/2019/03/Egusi-soup-prep-03.jpg",
+    image3:
+      "https://www.allnigerianrecipes.com/wp-content/uploads/2022/11/festive-nigerian-egusi-soup.jpg",
     name: "EGUSI SOUP RECIPE",
     ingredients: [
       "ground egusi seeds",
